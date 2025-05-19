@@ -1,4 +1,4 @@
-# EDA-On-Netflix-Sales
+# Netflix Sales EDA
 
 ## Overview:
 This project involves performing Exploratory Data Analysis (EDA) on Netflix sales data to uncover patterns, trends, and insights related to user preferences, popular content types, and revenue performance. The goal is to understand the business performance and customer engagement by analyzing streaming behavior.
